@@ -33,7 +33,8 @@ void main()
 */
 
 
-// simple_array second code
+
+// simple_array third code
 /*
 #include <stdio.h>
 #include <conio.h>
@@ -57,3 +58,18 @@ void main()
 }
 */
 
+
+//arrey with char value
+/*
+#include<stdio.h>
+#include<conio.h>
+#include<string.h>
+void main(){
+    char arr[5]={'a','b','c','d','e'};
+    for (int i = 0; i < 5; i++)
+    {
+     printf("enterd chareter array value=%c",arr[i]);
+     printf("\n");
+
+    }
+*/
